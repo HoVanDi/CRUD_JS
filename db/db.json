@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "namnDn",
+      "phone": "0909",
+      "email": "namdn@gmail.com",
+      "age": "44",
+      "gender": "true"
+    },
+    {
+      "id": 3,
+      "fullname": "Bao Bao",
+      "phone": "0905123456",
+      "email": "baobao@gmail.com",
+      "age": 22,
+      "gender": false
+    },
+    {
+      "fullname": "Hồ Văn Đi",
+      "phone": "0906063621",
+      "email": "hovandideveloper@gmail.com",
+      "age": "21",
+      "gender": "true",
+      "id": 4
+    },
+    {
+      "fullname": "Hồ Đi ",
+      "phone": "0359215610",
+      "email": "di.ho24@student.passerellesnumeriques.org",
+      "age": "20",
+      "gender": "true",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
